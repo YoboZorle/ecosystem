@@ -5,9 +5,9 @@ oneliner: "Decentralized investing and music streaming platform on the Metaverse
 website: "https://loozr.io/"
 twitter: "https://twitter.com/officialloozr"
 telegram: "https://t.me/officialloozr"
-discord: "https://discord.gg/CXhsnJ3NUQ"
+discord: "https://discord.gg/loozr"
 medium: "https://medium.com/@officialloozr"
-github: "https://github.com/loozr"
+github: "https://github.com/Loozr-Protocol"
 whitepaper: "https://loozr-1.gitbook.io/docs/"
 logo: /img/loozr-logo.png
 category: defi, metaverse, music, nft, social
